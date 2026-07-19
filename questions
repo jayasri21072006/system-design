@@ -1,0 +1,12 @@
+| #  | Question                           | Difficulty | Concepts Tested                            |
+| -- | ---------------------------------- | ---------- | ------------------------------------------ |
+| 1  | Design a URL Shortener (Bit.ly)    | ⭐⭐         | Hashing, Database, Cache, Load Balancer    |
+| 2  | Design WhatsApp / Chat Application | ⭐⭐⭐        | WebSockets, Message Queue, Online Presence |
+| 3  | Design YouTube                     | ⭐⭐⭐⭐       | Video Storage, CDN, Encoding, Streaming    |
+| 4  | Design Instagram                   | ⭐⭐⭐⭐       | Feed Generation, Media Storage, Caching    |
+| 5  | Design Twitter/X News Feed         | ⭐⭐⭐⭐       | Fan-out, Timeline, Ranking, Cache          |
+| 6  | Design Google Drive / Dropbox      | ⭐⭐⭐        | File Upload, Chunking, Synchronization     |
+| 7  | Design Notification Service        | ⭐⭐         | Email, SMS, Push Notifications, Queue      |
+| 8  | Design Rate Limiter                | ⭐⭐         | Token Bucket, Sliding Window, Redis        |
+| 9  | Design Uber Ride Matching          | ⭐⭐⭐⭐       | GPS, Geospatial Search, Matching           |
+| 10 | Design Netflix                     | ⭐⭐⭐⭐       | CDN, Recommendation, Video Streaming       |
