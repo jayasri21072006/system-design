@@ -8,7 +8,7 @@ System Design isn't about memorizing jargon — it's about understanding trade-o
 
 ## 📂 Contents
 
-The notes are organized in [`System_Design_Notes.md`](./System_Design_Notes.md) and cover:
+The notes are organized  and cover:
 
 - **Fundamentals** — What system design really means, and the mindset behind it
 - **Application Types** — Data-intensive vs compute-intensive systems
