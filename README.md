@@ -21,8 +21,8 @@ The notes are organized  and cover:
 - **Distributed Databases** — Replication (single/multi-leader, leaderless), partitioning/sharding, and the CAP theorem
 - **Message Queues** — Sync vs async processing, FIFO, priority queues, pub/sub, poison & duplicate messages
 - **Fault Tolerance** — Designing for inevitable hardware, software, and human failures
-- **Monitoring & Observability** — API-level and machine-level metrics
-- **Case Study** — Applying these concepts to design a video streaming platform
+- **Monitoring & Observability** — API-level and machine-level metrics etc....
+
 
 ## 🎯 Purpose
 
