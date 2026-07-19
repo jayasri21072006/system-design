@@ -10,3 +10,52 @@
 | 8  | Design Rate Limiter                | ⭐⭐         | Token Bucket, Sliding Window, Redis        |
 | 9  | Design Uber Ride Matching          | ⭐⭐⭐⭐       | GPS, Geospatial Search, Matching           |
 | 10 | Design Netflix                     | ⭐⭐⭐⭐       | CDN, Recommendation, Video Streaming       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Priority for Your Target Companies
+FAANG (Highest Priority)
+URL Shortener
+Chat System
+Instagram
+Twitter Feed
+YouTube
+Rate Limiter
+Notification Service
+Dropbox
+Uber
+Netflix
+Zoho
+
+Freshers are more likely to see:
+
+URL Shortener
+Parking Lot (LLD)
+Library Management (LLD)
+Chat Application
+Rate Limiter
+File Storage
+Tech Mahindra / Capgemini / Hexaware
+
+These companies often emphasize:
+
+Client-server architecture
+Database design
+REST APIs
+Load balancing basics
+Cache concepts
+High-level system diagrams
+
+Large-scale distributed systems are less common for entry-level roles, but understanding them can distinguish you from other candidates.
+
